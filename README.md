@@ -2,6 +2,8 @@
 
 Go language support for Atom-IDE, powered by the [gopls Server](https://golang.org/x/tools/gopls).
 
+# NOTE: gopls must already be installed until it can be installed by the package
+
 ## Early access
 This package is currently an early access release.  You should also install the [atom-ide-ui](https://atom.io/packages/atom-ide-ui) package to expose the functionality within Atom.
 
