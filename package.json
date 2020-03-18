@@ -9,7 +9,7 @@
     "atom": ">=1.21.0"
   },
   "dependencies": {
-    "atom-languageclient": "^0.8.3"
+    "atom-languageclient": "^0.9.9"
   },
   "enhancedScopes": [
     "source.go"
@@ -29,7 +29,7 @@
   "providedServices": {
     "autocomplete.provider": {
       "versions": {
-        "2.0.0": "provideAutocomplete"
+        "4.0.0": "provideAutocomplete"
       }
     },
     "code-format.range": {
