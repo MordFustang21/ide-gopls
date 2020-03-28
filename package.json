@@ -1,7 +1,7 @@
 {
   "name": "ide-gopls",
   "main": "./lib/main",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Go language support for Atom-IDE.",
   "repository": "https://github.com/MordFustang21/ide-gopls",
   "license": "MIT",
