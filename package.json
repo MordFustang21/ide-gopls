@@ -9,7 +9,7 @@
     "atom": ">=1.21.0"
   },
   "dependencies": {
-    "atom-languageclient": "^0.9.9"
+    "atom-languageclient": "^1.2.2"
   },
   "enhancedScopes": [
     "source.go"
